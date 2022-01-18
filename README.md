@@ -10,8 +10,8 @@ I'm a 25 year old student currently studying software development at [Zuyd Hoges
 
 
 
-<!--[![Spotify](https://novatorem-maxsmeets.vercel.app/api/spotify)](https://open.spotify.com/user/hetismax)-->
 
+## <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/spotify.svg" /> My all over the place taste in music:
 [<img src="https://novatorem-maxsmeets.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/>](https://open.spotify.com/user/hetismax)
 <!--
 - 🔭 I’m currently working on NFT games.
