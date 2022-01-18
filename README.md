@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hi there, I'm Max! 👋
+I'm a 25 year old student currently studying software development at [Zuyd Hogeschool](https://www.zuyd.nl/opleidingen/hbo-ict) in the Netherlands.
+
+## 📫 How to reach me:
+
+[<img height="32" width="32" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />](https://www.linkedin.com/in/max-smeets-40524920b/) [<img height="32" width="32" src="https://static.cdnlogo.com/logos/t/96/twitter-icon.svg" />](https://twitter.com/MaxSmeets4)
+
+## Languages and tools
+<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /> <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /> <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> <img height="32" width="32" src="https://www.logo.wine/a/logo/Solidity/Solidity-Logo.wine.svg" /> <img height="32" width="32" src="https://moralis.io/wp-content/uploads/2021/06/Moralis-Glass-Favicon.svg" /> 
+
+
 
 <!--
-**MaxSmeets/MaxSmeets** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on NFT games.
+- 🌱 I’m currently learning Moralis, Solidity.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ... -->
