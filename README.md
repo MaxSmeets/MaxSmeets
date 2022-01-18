@@ -12,7 +12,7 @@ I'm a 25 year old student currently studying software development at [Zuyd Hoges
 
 <!--[![Spotify](https://novatorem-maxsmeets.vercel.app/api/spotify)](https://open.spotify.com/user/hetismax)-->
 
-[<img src="https://guthubplayer-maxsmeets.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/>](https://open.spotify.com/user/hetismax)
+[<img src="https://novatorem-maxsmeets.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/>](https://open.spotify.com/user/hetismax)
 <!--
 - 🔭 I’m currently working on NFT games.
 - 🌱 I’m currently learning Moralis, Solidity.
