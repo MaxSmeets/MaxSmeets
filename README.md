@@ -11,7 +11,7 @@ I'm a 25 year old student currently studying software development at [Zuyd Hoges
 
 
 
-## <img height="24" width="24" src="https://unpkg.com/simple-icons@v6/icons/spotify.svg" /> My all over the place taste in music:
+## <img height="20" width="20" src="https://unpkg.com/simple-icons@v6/icons/spotify.svg" /> My all over the place taste in music:
 [<img src="https://novatorem-maxsmeets.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/>](https://open.spotify.com/user/hetismax)
 <!--
 - 🔭 I’m currently working on NFT games.
