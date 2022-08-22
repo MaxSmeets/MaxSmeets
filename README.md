@@ -1,5 +1,5 @@
 # Hi there, I'm Max! 👋
-I'm a 25 year old student currently studying software development at [Zuyd Hogeschool](https://www.zuyd.nl/opleidingen/hbo-ict) in the Netherlands.
+I'm a 26 year old student currently studying software development at [Zuyd Hogeschool](https://www.zuyd.nl/opleidingen/hbo-ict) in the Netherlands.
 
 ## 📫 How to reach me:
 
